@@ -3,10 +3,10 @@
 //  Rick and Morty API
 //
 //  Created by Sergey on 08.10.2021.
-//
-//
+
+
 import Foundation
-//
+
 //
 //class NetworkManager {
 //    
@@ -42,8 +42,8 @@ import Foundation
 //        }.resume()
 //    }
 //}
-//
-//
+
+
 
 class ImageManager {
     

@@ -21,9 +21,7 @@ struct Result: Decodable {
     let origin: Origin
     let location: Location
     let image: String?
- 
-
-
+    
 }
 
 struct Origin: Decodable {
@@ -34,11 +32,9 @@ struct Location: Decodable {
     let name: String?
 }
 
-
 enum URLS: String {
     
     case jsonURL = "https://rickandmortyapi.com/api/character"
-    
 }
     
 
